@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHubFollowersAndroid</string>
+    <string name="action_search">action search</string>
+    <string name="user_name">User Name</string>
+    <string name="user_has_no_email">User has no email</string>
+    <string name="user_has_no_location">User has no location</string>
+    <string name="repositories">Repositories</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+
+    <!-- TRANSITION constant -->
+    <string name="transition">TRANSITION</string>
+</resources>
