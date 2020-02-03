@@ -5,7 +5,7 @@ import com.cjmobileapps.githubfollowersandroid.ui.dagger.MainScope
 import com.cjmobileapps.githubfollowersandroid.ui.details.DetailActivity
 import dagger.Component
 
-@MainScope
+@DetailScope
 @Component(modules = [DetailModule::class], dependencies = [GitHubFollowersApplicationComponent::class])
 interface DetailComponent {
 
